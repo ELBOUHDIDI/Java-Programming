@@ -1,0 +1,10 @@
+Hello! This is just a new file.
+
+It has several lines:
+Monday
+1
+2.0
+3.56748372
+June
+
+And you can read all of them from your program :-)
